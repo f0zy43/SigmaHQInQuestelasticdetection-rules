@@ -14,6 +14,10 @@
 Файл с правилами для поиска инцидентов по ссылке https://github.com/SigmaHQ/sigma/tree/master/rules-threat-hunting/windows
 ## Elastic_Lucene_Sysmon_Windows_2.md
 Файл сделанный из файла "MITRE_ATTACK_Keywords_2.md" для поиска в строке поиска (хуета вышла полная, но может и сработает)
+## MITRE_ATTACK_Keywords_3.md
+Файл с правилами для поиска инцидентов по ссылке https://github.com/elastic/protections-artifacts/blob/main/yara/rules/Windows_Backdoor_Goldbackdoor.yar
+## MITRE_ATTACK_Keywords_4.md
+Файл с правилами для поиска инцидентов по ссылке https://github.com/mdecrevoisier/SIGMA-detection-rules/windows-active_directory
 ## REPORT.md
 Файл примера отчета (хз так не так похуй нахуй шевроле тахо)
 ## REP_RULES.md
