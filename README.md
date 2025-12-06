@@ -14,15 +14,9 @@
 Файл с правилами для поиска инцидентов по ссылке https://github.com/SigmaHQ/sigma/tree/master/rules-threat-hunting/windows
 ## Elastic_Lucene_Sysmon_Windows_2.md
 Файл сделанный из файла "MITRE_ATTACK_Keywords_2.md" для поиска в строке поиска (хуета вышла полная, но может и сработает)
-## MITRE_ATTACK_Keywords_3.md
-Файл с правилами для поиска инцидентов
-## Elastic_Lucene_Sysmon_Windows_3.md
-Файл сделанный из файла "MITRE_ATTACK_Keywords_3.md" для поиска в строке поиска (хуета вышла полная, но может и сработает)
-## MITRE_ATTACK_Keywords_4.md
-Файл с правилами для поиска инцидентов
-## Elastic_Lucene_Sysmon_Windows_4.md
-Файл сделанный из файла "MITRE_ATTACK_Keywords_4.md" для поиска в строке поиска (хуета вышла полная, но может и сработает)
 ## REPORT.md
 Файл примера отчета (хз так не так похуй нахуй шевроле тахо)
+## REP_RULES.md
+Ссылки на правила детектирования
 ## Переводчик
 https://translate.yandex.ru/
