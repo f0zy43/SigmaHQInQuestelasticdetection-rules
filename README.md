@@ -4,6 +4,10 @@
 Файл с ссылками на информацию про Elastic
 ## MITRE.md
 Файл с ссылками на матрицу MITRE_ATTACK
+## MITRE_TA0001_TA0002_TA0003.md
+Более пиздатый файл по трем тактикам
+## MITRE_Sysmon_TA0001_TA0002_TA0003.md
+Более пиздатый файл по трем тактикам
 ## MITRE_ATTACK_Keywords.md
 Файл с правилами для поиска инцидентов по ссылке https://github.com/elastic/detection-rules/tree/main/rules/windows
 ## Elastic_Lucene_Sysmon_Windows.md
